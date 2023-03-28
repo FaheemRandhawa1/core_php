@@ -1,4 +1,4 @@
 <?php
-echo "hello word";
-
+$cars =array("faheem","ashr","ali");
+echo "Firstname"   .$cars[0] . ".";
 ?>
