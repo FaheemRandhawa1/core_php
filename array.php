@@ -1,7 +1,6 @@
 <?php
 
-
-jfijaskdfsdffsdls
+echo "hello";
 
 
 ?>
